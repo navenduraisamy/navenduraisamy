@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @navenduraisamy
+- 👋 Hi, I’m Navenkumar
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning angular
 - 📫 Reachout to me through email naven.duraisamy5859@gmail.com
