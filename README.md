@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Navenkumar
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning angular
+- 👀 Intrested in problem solving and frontend development
+- 🌱 Currently working with angular
 - 📫 Reachout to me through email naven.duraisamy5859@gmail.com
 
 <!---
