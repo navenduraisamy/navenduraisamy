@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Navenkumar
-- 👀 Intrested in problem solving and frontend development
-- 🌱 Currently working with Angular | Gradle
+- 👋 Hello! Guess you are here for **Navenkumar**
+- 👀 Intrested in problem solving and Frontend development
+- 🌏 Exploring the world of `Angular`
+- ☄️ Had been developing `Gradle` Plugins in `Java`
 - 📫 Reachout to me through email naven.duraisamy5859@gmail.com
 
 <!---
