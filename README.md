@@ -1,5 +1,5 @@
 - 👋 Hello! Guess you are here for **Navenkumar**
-- 👀 Intrested in problem solving and Frontend development
+- 👀 Intrested in problem solving and Web development
 - 🌏 Exploring the world of `Angular`
 - ☄️ Had been developing `Gradle` Plugins in `Java`
 - 📫 Reachout to me through email naven.duraisamy5859@gmail.com
