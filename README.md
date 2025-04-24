@@ -1,6 +1,7 @@
 - 👋 Hello! Guess you are here for **Navenkumar**
-- 👀 Intrested in problem solving and Web development
-- 🌏 Living in the world of `Angular` `Flask`
+- 👀 Intrested in Kubernetes and Cloud technologies
+- 🌏 Living in the world of YAML
+- 👨‍💻 Scripts with Go / Python
 - 📫 Reachout to me through email naven.duraisamy5859@gmail.com
 
 <!---
